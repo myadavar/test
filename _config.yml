@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: FactoCloudConnect
 description: FactoCloudConnect documentation
-baseurl: "/SampleRepo" # the subpath of your site, e.g. /blog
-url: "https://pujaayare.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: "https://myadavar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
